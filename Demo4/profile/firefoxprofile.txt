@@ -1,0 +1,2 @@
+﻿#turn of notification on web firefox
+dom.webnotifications.enabled=false

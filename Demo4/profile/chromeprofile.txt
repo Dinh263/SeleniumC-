@@ -1,0 +1,4 @@
+﻿#disable-infobar : use for turn off info bar
+#disable-notification : use for turn off notification of web.
+disable-infobars
+disable-notifications
